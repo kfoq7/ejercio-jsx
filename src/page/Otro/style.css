@@ -1,0 +1,23 @@
+.cuadradoRojo {
+  width: 25%;
+  height: 0;
+  padding-top: 25%;
+  position: relative;
+  background: red;
+}
+
+.cuadradoAzul {
+  width: 25%;
+  height: 0;
+  padding-top: 25%;
+  position: relative;
+  background: blue;
+}
+
+.cuadradoAmarillo {
+  width: 25%;
+  height: 0;
+  padding-top: 25%;
+  position: relative;
+  background: yellow;
+}
